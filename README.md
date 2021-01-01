@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=BE81F7&height=300&section=header&text=DaHyunRow&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=642EFE&height=300&section=header&text=DaHyunRow&fontSize=80)
 
 <h3 align="center">👋Hi there👋</h3>
 <br><br>
@@ -19,7 +19,7 @@
 <h3 align="center"> 🌈ME🌈 </h3>
 <p align="center">
   <a href="https://velog.io/@dailyhyun"><img src="https://img.shields.io/badge/Tech Blog-0431B4?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dailyhyun"/></a>&nbsp;
-  <a href="mailto:ekgusgn@naver.com"><img src="https://img.shields.io/badge/Mail-01A9DB?style=flat-square&logo=Vimeo&logoColor=white&link=mailto:ekgusgn@naver.com"/></a>&nbsp;
+  <a href="mailto:ekgusgn@naver.com"><img src="https://img.shields.io/badge/Mail-01A9DB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekgusgn@naver.com"/></a>&nbsp;
 
 </p>
 
