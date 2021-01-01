@@ -1,11 +1,16 @@
 ## Hi I'm Dahyun✨
 
 <h3 align="center"> 🔗Tech Stack🔗 </h3>
-<p h3 align="center">
-<img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/CSS-8000FF?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F5DA81?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/CSS-8000FF?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-04B431?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
+  <img src="https://img.shields.io/badge/React-5858FA?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
 </p>
 
 
