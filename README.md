@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=BE81F7&height=300&section=header&text=DaHyunRow%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=BE81F7&height=300&section=header&text=DaHyunRow%20render&fontSize=80)
 
-<h4 align="center">👋🏻Hi there👋🏻</h5>
+<h3 align="center">👋🏻Hi there👋🏻</h3>
 
-<h4 align="center"> 🔗Tech Stack🔗 </h3>
+<h3 align="center"> 🔗Tech Stack🔗 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/React-5858FA?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
 </p>
 <br><br>
-<h4 align="center"> 🌈ME🌈 </h3>
+<h3 align="center"> 🌈ME🌈 </h3>
 <p align="center">
   <a href="https://velog.io/@dailyhyun"><img src="https://img.shields.io/badge/Tech Blog-0431B4?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dailyhyun"/></a>&nbsp;
 </p>
