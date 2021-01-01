@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F5DA81?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/CSS-8000FF?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
-</p> <br><br>
+</p> 
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-04B431?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/React-5858FA?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
 </p>
-
+<br><br>
 <h3 align="center"> 🌈ME🌈 </h3>
 <p align="center">
   <a href="https://velog.io/@dailyhyun"><img src="https://img.shields.io/badge/Tech Blog-0431B4?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dailyhyun"/></a>&nbsp;
