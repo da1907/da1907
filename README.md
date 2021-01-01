@@ -1,12 +1,11 @@
 ## Hi I'm Dahyun✨
 
-<center>
 ### 🔗Tech Stack🔗
 <img src="https://img.shields.io/badge/PYTHON-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/CSS-8000FF?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp;
-</center>
+
 
 
 
