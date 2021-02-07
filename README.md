@@ -24,7 +24,8 @@
 </p>
 
 <br>
-`Education` Samsung Software Academy For Youth 5th (2021.1 ~)
+<h3>Education</h3>
+Samsung Software Academy For Youth 5th (2021.1 ~)
 <!--
 **da1907/da1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
