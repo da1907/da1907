@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-04B431?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
   <img src="https://img.shields.io/badge/React-5858FA?style=flat-square&logo=React&logoColor=white"/></a> &nbsp;
 </p>
-<br><br>
+<br>
 <h3 align="center"> 🌈ME🌈 </h3>
 <p align="center">
   <a href="https://velog.io/@dailyhyun"><img src="https://img.shields.io/badge/Tech Blog-0431B4?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dailyhyun"/></a>&nbsp;
@@ -23,6 +23,8 @@
 
 </p>
 
+<br>
+`Education` Samsung Software Academy For Youth 5th (2021.1 ~)
 <!--
 **da1907/da1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
