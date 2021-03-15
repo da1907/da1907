@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=642EFE&height=300&section=header&text=DaHyunRow&fontSize=80)
 
 <h3 align="center">👋Hi there👋</h3>
+<h3 align="center">I'm currently learning in SSAFY🔥</h3>
 <br><br>
 
 <h3 align="center"> 🔗Tech Stack🔗 </h3>
@@ -24,8 +25,6 @@
 </p>
 
 <br>
-<h3>Education</h3>
-Samsung Software Academy For Youth 5th (2021.1 ~)
 <!--
 **da1907/da1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
