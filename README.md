@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=642EFE&height=300&section=header&text=DaHyun Noh&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=642EFE&height=300&section=header&text=DaHyun&text=Noh&fontSize=80)
 
 <h3 align="center">👋Hi there👋</h3>
 <h3 align="center">I'm currently learning in SSAFY🔥</h3>
